@@ -46,8 +46,8 @@ Sources:
 ```
 PathoScopy/
 ├── README.md               # Project documentation
-└── Sandbox/
-    └── PathoScopy.ipynb   # Main notebook &  RAGs chatbot
+└── sandbox
+    └── PathoScopy.ipynb   # Main notebook & RAGs chatbot
 ```
 
 ## How to Run
