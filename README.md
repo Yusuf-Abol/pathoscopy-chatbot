@@ -11,8 +11,6 @@ Pathoscopy is a Retrieval-Augmented Generation (RAG) chatbot that answers medica
 - FAISS + Sentence Transformers for document retrieval
 - microsoft/Phi-3-mini-4k-instruct for LLM responses
 - Context-aware answers with source citations
-- Google Colab
-- Kaggle
 
 ## Example Interaction
 **User:** What is Cardiogenic shock?  
