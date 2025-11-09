@@ -10,6 +10,12 @@
 
 
 
+## Demo
+[![Watch the Demo](https://img.youtube.com/vi/5g5uFLoBJp4/0.jpg)](https://youtu.be/5g5uFLoBJp4)
+
+
+
+
 ## Key Features
 
 * Retrieves contextually relevant passages from a local corpus.
