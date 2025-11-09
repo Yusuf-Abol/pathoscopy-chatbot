@@ -1,15 +1,12 @@
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Yusuf-Abol/pathoscopy-chatbot/blob/main/sandbox/pathoscopy.ipynb)
 
 
-Here’s a **simple and professional README.md** you can use for your GitHub project:
-
----
 
 # PathoScopy: Medical Knowledge Retrieval Chatbot
 
 ## Overview
 
-PathoScopy is a medical question-answering chatbot built using a Retrieval-Augmented Generation (RAG) approach. It retrieves relevant medical text passages from a curated corpus and generates responses grounded in the provided context. The project focuses on cardiovascular conditions, including cardiogenic shock and related disorders.
+> PathoScopy is a medical question-answering chatbot built using a Retrieval-Augmented Generation (RAG) approach. It retrieves  relevant medical text passages from a curated corpus and generates responses grounded in the provided context. The project focuses on cardiovascular conditions, including cardiogenic shock and related disorders.
 
 ## Key Features
 
