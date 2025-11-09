@@ -6,7 +6,9 @@
 
 ## Overview
 
-> PathoScopy is a medical question-answering chatbot built using a Retrieval-Augmented Generation (RAG) approach. It retrieves  relevant medical text passages from a curated corpus and generates responses grounded in the provided context. The project focuses on cardiovascular conditions, including cardiogenic shock and related disorders.
+> A domain-specific Retrieval-Augmented Generation (RAG) chatbot built to provide medical insights from a curated dataset of scientific abstracts. The model, powered by Phi-3-mini and FAISS, retrieves relevant context before generating human-like, citation-supported answers.
+
+
 
 ## Key Features
 
@@ -50,7 +52,7 @@ PathoScopy/
 
 ## How to Run
 
-1. Open `PathoScopy.ipynb` in [Google Colab](https://colab.research.google.com/).
+1. Open `PathoScopy.ipynb` in [Google Colab](https://colab.research.google.com/drive/1zA5Mngs-_crGRWbLfe0opvRDQJG4texh).
 2. Upload your dataset of medical abstracts or papers.
 3. Run all cells to initialize the chatbot.
 4. Interact with the chatbot in the notebook terminal.
