@@ -10,8 +10,15 @@
 
 
 
-## Demo
-[![Watch the Demo](https://img.youtube.com/vi/5g5uFLoBJp4/0.jpg)](https://youtu.be/5g5uFLoBJp4)
+<h2>Demo</h2>
+<iframe width="560" height="315" 
+src="https://www.youtube.com/embed/5g5uFLoBJp4" 
+title="PathoScopy AI Demo" 
+frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen>
+</iframe>
+
 
 
 
